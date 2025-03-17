@@ -5,6 +5,7 @@ const _layout = () => {
   return (
     <View>
       <Text>_layout</Text>
+      <Text>Hello Everyone, I'm Favour How are you all doing ooo?</Text>
     </View>
   )
 }
